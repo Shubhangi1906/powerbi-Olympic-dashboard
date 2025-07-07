@@ -19,6 +19,6 @@ This is an interactive dashboard built using Power BI to analyze Olympic Games d
 
 
 ## 📥 Download the .pbix File
-[Click here to download the Olympics Dashboard (.pbix)](Olympics-dashboard.pbix)
+[Click here to download the Olympic Dashboard (.pbix)](Olympic-dashboard.pbix)
 ---
 
